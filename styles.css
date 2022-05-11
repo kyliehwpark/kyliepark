@@ -1,6 +1,7 @@
 body {
 
   background-image: url(huji.png);
+  background-color: grey;
   background-position: center; 
   cursor: url(images/greencursor.png), default;
 }
